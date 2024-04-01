@@ -1,0 +1,30 @@
+{
+  "name": "velitcumque",
+  "version": "1.0.0",
+  "description": "Expands TS definitions of object-like types",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "prettier": "^2.7.1",
+    "typedoc": "^0.23.25",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "typedoc": "0.22.x || 0.23.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacintheSchuster/velitcumque.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "autem"
+  ],
+  "author": "KirstinThiel",
+  "license": "MIT",
+  "homepage": "https://github.com/JacintheSchuster/velitcumque.git",
+  "packageManager": "pnpm@7.18.1"
+}
